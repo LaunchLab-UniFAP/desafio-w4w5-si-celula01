@@ -53,10 +53,10 @@ O uso de ferramentas de IA (como ChatGPT, GitHub Copilot ou Claude) no LaunchLab
 *Instrução: Edite as seções abaixo preenchendo as evidências críticas da dupla até o fim do ciclo unificado.*
 
 ### 📂 Identificação da Squad
-* **Curso Dominante:** [Sistemas de Informação / ADS]
-* **Membro 1 (Nome & GitHub):** @[Username] - [Nome Completo]
-* **Membro 2 (Nome & GitHub):** @[Username] - [Nome Completo]
-* **Aluno Embaixador Vinculado:** @[Username] - [Nome do Monitor]
+* **Curso Dominante:** Sistemas de Informação
+* **Membro 1 (Nome & GitHub):** @Chroanz - Hans Christian Oliveira de Alencar
+* **Membro 2 (Nome & GitHub):** @caiotomaza - Caio Tomaz Araújo Silva
+* **Aluno Embaixador Vinculado:** @luisz19 - Luis Henrique Sanches Alencar
 
 ### 🌍 Seção de Análise Crítica (Formação Geral ENADE)
 > *Com base no cenário proposto no briefing e na carga conceitual do AVA sobre a Lei de Acesso à Informação (LAI), descreva como a persistência de dados estruturados e normalizados atua diretamente no combate à corrupção e viabiliza o controle social pela sociedade civil. Por que relatórios de dados previamente agregados ou mascarados ferem os preceitos da transparência democrática?*
@@ -64,10 +64,10 @@ O uso de ferramentas de IA (como ChatGPT, GitHub Copilot ou Claude) no LaunchLab
 
 ### 💻 Seção de Engenharia e Governança de TI
 > *Justifique a decisão de arquitetura técnica adotada pela célula nesta entrega. SI: Como os comandos DCL implementados blindam a base contra sabotagens e vazamentos internos? ADS: De que forma o uso de chaves estrangeiras (`FOREIGN KEY`) e a tipagem exata impedem a ocorrência de dados órfãos e inconsistências financeiras nos relatórios gerados?*
-💬 **RESPOSTA DA CÉLULA:** [Escreva sua justificativa técnica aqui]
+💬 **RESPOSTA DA CÉLULA:** Fazer com que os dados sejam auditáveis está diretamente alinhado com a LAI, trazendo transparência para a população a respeito das informações públicas. Ao não permitir que os dados sejam fisicamente deletados é permitido que seja possível auditar e manter registros de inserções e atualizações erradas, além de preservar a integridade e disponibilidade de dados. Com um controle de permissões é possível garantir que apenas pessoas autorizadas possam realizar comandos de escrita, garantindo integridade de dados.
 
 ### 🛠️ Diário de Bordo da Bancada
-* **Maior travamento técnico de banco de dados superado pela dupla durante o bloco unificado:** [Relate aqui]
+* **Maior travamento técnico de banco de dados superado pela dupla durante o bloco unificado:** Não houve travamento técnico.
 * **Como a intervenção ou a Issue aberta para o Embaixador ajudou a dupla a compreender os conceitos de integridade relacional:** [Relate aqui]
 
 ---
