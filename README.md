@@ -60,7 +60,7 @@ O uso de ferramentas de IA (como ChatGPT, GitHub Copilot ou Claude) no LaunchLab
 
 ### 🌍 Seção de Análise Crítica (Formação Geral ENADE)
 > *Com base no cenário proposto no briefing e na carga conceitual do AVA sobre a Lei de Acesso à Informação (LAI), descreva como a persistência de dados estruturados e normalizados atua diretamente no combate à corrupção e viabiliza o controle social pela sociedade civil. Por que relatórios de dados previamente agregados ou mascarados ferem os preceitos da transparência democrática?*
-💬 **RESPOSTA DA CÉLULA:** [Escreva sua análise crítica aqui]
+> 💬 **RESPOSTA DA CÉLULA:** A persistência de dados estruturados e normalizados permite organizar as informações públicas de forma clara, evitando dados duplicados, incompletos ou sem relação. Com isso, é possível acompanhar a origem das verbas, identificar quem recebeu o dinheiro e verificar como ele foi gasto. Isso ajuda no combate à corrupção e permite que a sociedade fiscalize o uso dos recursos públicos. Relatórios muito resumidos ou com informações escondidas dificultam essa fiscalização, pois não mostram os dados necessários para encontrar erros ou gastos suspeitos. Dessa forma, eles ferem a transparência defendida pela LAI e limitam o controle da população sobre o governo.
 
 ### 💻 Seção de Engenharia e Governança de TI
 > *Justifique a decisão de arquitetura técnica adotada pela célula nesta entrega. SI: Como os comandos DCL implementados blindam a base contra sabotagens e vazamentos internos? ADS: De que forma o uso de chaves estrangeiras (`FOREIGN KEY`) e a tipagem exata impedem a ocorrência de dados órfãos e inconsistências financeiras nos relatórios gerados?*
